@@ -6,4 +6,7 @@ The game was originally programed by Andrew Challis for the Commodore 64 and by 
 
 The game was also licensed by Mindscape for release in the United States, who handled the Apple II port by Andrew Pines and IBM PC port by Visionware Inc. 
 
+In 1988 Atari Corporation published a cartridge version for the Atari 8-bit family as part of the Atari XEGS release line-up.
+
 Graphics designed by Robin Chapman and music composed by Keith Harvey. 
+(Source: [Wikipedia](https://en.wikipedia.org/wiki/Into_the_Eagle%27s_Nest))
